@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.carre {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: red;
+    border:solid;
+}
+
+
+.X{
+    text-align: center;
+    font-size: 90px;
+
+}
+.O{
+    text-align: center;
+    font-size: 90px;
+}
+.horizontal {
+    display: flex;
+
+}
